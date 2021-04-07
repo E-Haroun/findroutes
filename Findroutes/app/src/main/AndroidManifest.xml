@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Findroutes">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCz4dKLSf9o7KqHku4lseGlnZCdQFL9rsY" />
+            android:value="" />
 
 
 
